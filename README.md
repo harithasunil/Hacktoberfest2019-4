@@ -13,3 +13,5 @@ Help Us keep the Repo clean!<br>
 
 <b>Keep Coding!<b>
 <b>enjoy hacking !!<b>
+
+Make sure there are no conflicts 
